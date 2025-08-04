@@ -24,7 +24,23 @@ You can install these dependencies using the following commands:
 ```bash
 conda install torch==1.11.0
 conda install transformers==4.16.0
+```
 
 ## Setup and Usage
+### 1. **Training the Model**
+To train the model, run the `train.py` script.
+```bash
+python train.py
+```
+
+### 2. **Testing the Model**
+To test the model, run the `test.py` script.
+```bash
+python test.py
+```
+
+### 3. **Dataset**
+The dataset used for training and evaluation can be downloaded from the following link:
+[Download Dataset](https://drive.google.com/file/d/1s5OFZV30RxFHERTEdKOjLGYj-ZXSmWvA/view?usp=drive_link)
 
 
