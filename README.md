@@ -22,5 +22,5 @@ The following Python libraries are required to run the code:
 You can install these dependencies using the following commands:
 
 ```bash
-pip install torch==1.11.0
-pip install transformers==4.16.0
+conda install torch==1.11.0
+conda install transformers==4.16.0
